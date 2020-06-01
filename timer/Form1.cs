@@ -21,6 +21,41 @@ namespace timer
         int h,m,s; //часы, минуты, секунды
         bool stop = true;
 
+        public int get_hours() {
+            return h;
+        }
+
+        public int get_minutes()
+        {
+            return m;
+        }
+
+        public int get_seconds()
+        {
+            return s;
+        }
+
+        public void set_hourstext(string text)
+        {
+            textBox1.Text = text;
+        }
+
+        public void set_minutestext(string text)
+        {
+            textBox2.Text = text;
+        }
+
+        public void set_secondstext(string text)
+        {
+            textBox3.Text = text;
+        }
+
+        public string get_pause_text() { 
+            return button2.Text;
+        }
+
+
+
         public int convert_to_int(object value, string text) {
             try
             {
@@ -35,14 +70,19 @@ namespace timer
 
         }
 
-        private void button1_Click(object sender, EventArgs e) 
-        {
+        public void StartTimer(object hours, object minutes, object seconds) {
             //заносим написанные пользователем числа в переменные
-            h = convert_to_int(textBox1.Text, "часов");
-            m = convert_to_int(textBox2.Text, "минут");
-            s = convert_to_int(textBox3.Text, "секунд");
+            h = convert_to_int(hours, "часов");
+            m = convert_to_int(minutes, "минут");
+            s = convert_to_int(seconds, "секунд");
 
             if (h != 0 || m != 0 || s != 0) timer1.Start(); // запускаем таймер
+
+        }
+
+        private void button1_Click(object sender, EventArgs e) 
+        {
+            StartTimer(textBox1.Text, textBox2.Text, textBox3.Text);
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -72,8 +112,8 @@ namespace timer
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
+        public void PauseTimer() {
+
             if (h != 0 || m != 0 || s != 0)
             {
                 if (stop)
@@ -89,10 +129,15 @@ namespace timer
                     button2.Text = "Пауза";
                 }
             }
+
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
+            PauseTimer();
+        }
+
+        public void StopTimer() {
             timer1.Stop(); // при нажатии пользователем на кнопку "Сброс" таймер останавливается, а текст в label'ах "сбрасывается" до нуля.
             label1.Text = "0";
             label3.Text = "0";
@@ -100,6 +145,12 @@ namespace timer
             h = 0;
             m = 0;
             s = 0;
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            StopTimer();
         }
     }
 }
