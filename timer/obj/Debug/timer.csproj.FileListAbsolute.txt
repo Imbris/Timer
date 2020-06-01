@@ -1,0 +1,10 @@
+E:\prog\STPO\Timer\timer\bin\Debug\timer.exe.config
+E:\prog\STPO\Timer\timer\bin\Debug\timer.exe
+E:\prog\STPO\Timer\timer\bin\Debug\timer.pdb
+E:\prog\STPO\Timer\timer\obj\Debug\timer.csprojAssemblyReference.cache
+E:\prog\STPO\Timer\timer\obj\Debug\timer.Form1.resources
+E:\prog\STPO\Timer\timer\obj\Debug\timer.Properties.Resources.resources
+E:\prog\STPO\Timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+E:\prog\STPO\Timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+E:\prog\STPO\Timer\timer\obj\Debug\timer.exe
+E:\prog\STPO\Timer\timer\obj\Debug\timer.pdb
