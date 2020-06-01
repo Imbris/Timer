@@ -30,8 +30,8 @@ namespace timer
             {
                 SystemSounds.Hand.Play();
                 MessageBox.Show("Неверный формат " + text + "! Введите число");
-                return 0;
             }
+            return 0;
 
         }
 
