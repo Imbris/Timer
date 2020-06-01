@@ -1,0 +1,4 @@
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\Timer.Tests\obj\Debug\Timer.Tests.csprojAssemblyReference.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\Timer.Tests\obj\Debug\timer.Form1.resources
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\Timer.Tests\obj\Debug\Timer.Tests.csproj.GenerateResource.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\Timer.Tests\obj\Debug\Timer.Tests.csproj.CoreCompileInputs.cache

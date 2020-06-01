@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22B09E36-1D0E-4AFE-8C26-2C60A812C82E}</ProjectGuid>
+    <ProjectGuid>{9E2E003B-484A-4B9D-BD10-814C225CAD1D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>timer.Tests</RootNamespace>
-    <AssemblyName>timer.Tests</AssemblyName>
+    <RootNamespace>Timer.Tests</RootNamespace>
+    <AssemblyName>Timer.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

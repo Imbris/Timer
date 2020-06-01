@@ -32,6 +32,7 @@ namespace timer
                 MessageBox.Show("Неверный формат " + text + "! Введите число");
                 return 0;
             }
+
         }
 
         private void button1_Click(object sender, EventArgs e) 

@@ -1,7 +1,8 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using timer;
 
-namespace timer.Tests
+namespace Timer.Tests
 {
     [TestClass]
     public class UnitTest1
@@ -9,7 +10,7 @@ namespace timer.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            // Assert.AreEqual(timer.Form1.);
+            Assert.AreEqual(Form1.convert_to_int("4", ",блаблабла это неважно"), 4);
         }
     }
 }
