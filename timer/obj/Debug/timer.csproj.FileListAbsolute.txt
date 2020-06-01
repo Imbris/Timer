@@ -1,0 +1,29 @@
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\bin\Debug\timer.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\bin\Debug\timer.exe
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\bin\Debug\timer.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.exe
+c:\users\юлия\documents\visual studio 2013\Projects\timer\timer\obj\Debug\timer.pdb
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\bin\Debug\timer.exe.config
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\bin\Debug\timer.exe
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\bin\Debug\timer.pdb
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.csprojAssemblyReference.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.Form1.resources
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.Properties.Resources.resources
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.exe
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\таймер1\timer\timer\obj\Debug\timer.pdb
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\bin\Debug\timer.exe.config
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\bin\Debug\timer.exe
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\bin\Debug\timer.pdb
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.csprojAssemblyReference.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.Form1.resources
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.Properties.Resources.resources
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.exe
+E:\Документы\учеба\6 семестр\СТПО\Методички и лекции для ИВБО\Курсовые работы\курсач\timer\timer\obj\Debug\timer.pdb
